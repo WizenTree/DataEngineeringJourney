@@ -1,5 +1,0 @@
-2025-05-24 17:56:38,675:INFO:Pipeline execution started.
-2025-05-24 17:56:39,992:INFO:Data successfully extracted from API.
-2025-05-24 17:56:40,147:INFO:Data transformation successful.
-2025-05-24 17:56:43,305:INFO:Data successfully loaded to MySQL.
-2025-05-24 17:56:43,306:INFO:Pipeline execution completed successfully.
