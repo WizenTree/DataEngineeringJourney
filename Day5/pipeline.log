@@ -1,0 +1,8 @@
+INFO:root:Saved data to data/users.csv
+ERROR:root:MySQL Error: 1049 (42000): Unknown database 'pipeline_db'
+INFO:root:Saved data to data/users.csv
+ERROR:root:MySQL Error: 1049 (42000): Unknown database 'pipeline_db'
+INFO:root:Saved data to data/users.csv
+ERROR:root:MySQL Error: 1366 (HY000): Incorrect integer value: 'Jeanne' for column 'id' at row 1
+INFO:root:Saved data to data/users.csv
+INFO:root:Data pushed to MySQL successfully
